@@ -8,7 +8,6 @@
     padding: 94px 24px 96px;
 }
 
-
 .header__menu{
     display: flex;
     flex-direction: column;
@@ -18,7 +17,6 @@
     text-underline-position: under;
 }
 
-
 .header__links-list{
     display: flex;
     flex-direction: row;
@@ -27,8 +25,6 @@
     font-size: 18px;
     font-weight: 400;
 }
-
-
 
 .header__logo-image{
     margin: auto;
