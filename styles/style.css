@@ -43,7 +43,6 @@
 }
 
 .header__link_active {
-    list-style-type: none;
     list-style-type: circle;
 
 }
@@ -136,6 +135,7 @@
     text-align: right;
     margin-top: 11px;
     line-height:110px; 
+
 }
 
 .no-letter-spacing {
@@ -331,7 +331,7 @@
 
 }
 
-.about_text_paragraph{
+.about_text_paragraph {
     margin-bottom:13px;
     padding: 26px 18px 3px 1px;
     word-spacing: 0.3px;
@@ -364,7 +364,7 @@
     justify-content: flex-end;
     gap:48px;
     
-    
+
 }
 
 .footer__social-icon {
